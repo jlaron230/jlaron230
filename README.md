@@ -48,3 +48,5 @@ N'hésitez pas à me contacter pour discuter de collaborations, de projets inté
 ## Objectifs à Long Terme
 
 Mon objectif à long terme est de devenir un développeur web expérimenté, capable de concevoir des solutions innovantes et de contribuer de manière significative à des projets stimulants. Je suis déterminé à continuer d'apprendre et de m'adapter aux évolutions rapides du monde de la programmation.
+
+![GIF d'un développeur](https://media.giphy.com/media/PiNm3fm8cAfK3ulwZW/giphy.gif)
