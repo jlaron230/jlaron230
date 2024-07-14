@@ -8,7 +8,7 @@
 - **Langages de Programmation:**
   - HTML 🌐
   - CSS 🎨
-  - JavaScript (notions) 💻
+  - JavaScript 💻
   - PHP (notions) 🚀
   - C#
 
