@@ -18,6 +18,11 @@
   - npm 📦
   - Responsive Design 📱
   - Bootstrap 🅱️
+  - React Js ⚛️
+  - Tailwind 🖼️
+  - Node.Js 👨‍💻
+  - argon2 🔮
+  - JWT Token 🏅
 
 - **Méthodologies:**
   - Agile / Scrum 🔄
